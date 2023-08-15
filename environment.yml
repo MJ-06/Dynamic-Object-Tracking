@@ -1,0 +1,11 @@
+name: tf1
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - torchaudio
+  - cudatoolkit=11.4
+  - pytorch
+  - torchvision
+  - cupy
+prefix: /home/aiml-3080/Downloads/MJ/miniconda3/envs/tf1
